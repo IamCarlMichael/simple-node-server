@@ -1,0 +1,13 @@
+# Simple-Node-Server
+
+## start-server
+
+...
+npm start
+...
+
+### start server for development
+
+...
+npm start:dev
+...

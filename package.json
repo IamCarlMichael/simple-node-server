@@ -1,0 +1,24 @@
+{
+  "name": "simple-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamCarlMichael/simple-node-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamCarlMichael/simple-node-server/issues"
+  },
+  "homepage": "https://github.com/IamCarlMichael/simple-node-server#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
